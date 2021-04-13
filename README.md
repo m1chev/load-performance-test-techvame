@@ -1,5 +1,7 @@
-gatling-maven-plugin-demo
+load-performance-test techvame
 =========================
+
+## gatling-maven-scala
 
 Simple showcase of a maven project using the gatling-maven-plugin.
 
